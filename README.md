@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on idk sunset lodge
 - 📫 How to reach me on discord
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,py)](https://skillicons.dev)
+
 how am i meant to know what to put here i just used some weird tewmplate
 
 <!---
