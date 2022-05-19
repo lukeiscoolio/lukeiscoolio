@@ -5,6 +5,7 @@
 - 📫 How to reach me on discord
 
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,html,instagram,js,lua,md,nodejs,powershell,py,raspberrypi,stackoverflow,twitter,visualstudio,vscode,wordpress)](https://skillicons.dev)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lukeiscoolio)
 
 how am i meant to know what to put here i just used some weird tewmplate
 
