@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=discord,bots,github,html,instagram,js,lua,md,nodejs,powershell,py,raspberrypi,stackoverflow,twitter,visualstudio,vscode,wordpress)](https://skillicons.dev)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lukeiscoolio)
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=lukeiscoolio&count_private=true&show_icons=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lukeiscoolio=Github&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukeiscoolio&layout=compact)
 
 how am i meant to know what to put here i just used some weird tewmplate
 
